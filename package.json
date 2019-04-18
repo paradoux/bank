@@ -4,9 +4,15 @@
     "description": "Small bank test",
     "main": "index.js",
     "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1",
+        "test": "jest",
         "start": "node index.js"
     },
     "author": "Axel Martin",
-    "license": "ISC"
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^0.18.0",
+        "dotenv": "^7.0.0",
+        "jest": "^24.7.1",
+        "nock": "^10.0.6"
+    }
 }

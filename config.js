@@ -1,3 +1,4 @@
+// Retrieve critical data from .env file
 module.exports = {
   email: process.env.EMAIL,
   password: process.env.PASSWORD,
