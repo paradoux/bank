@@ -1,5 +1,5 @@
-# bank
-Simple program to call extrenal api and compute the total of all the balances of a user's accouts
+# Bank
+Simple program that calls an external API and sums all the user's accounts balances
 
 # Launch
 To launch the program:
